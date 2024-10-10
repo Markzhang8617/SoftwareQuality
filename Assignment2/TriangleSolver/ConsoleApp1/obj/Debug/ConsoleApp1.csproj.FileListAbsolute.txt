@@ -1,0 +1,10 @@
+E:\2024Fall\PROG8171 Software Quality\Assignments\Assignment2\TriangleSolver\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\2024Fall\PROG8171 Software Quality\Assignments\Assignment2\TriangleSolver\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\2024Fall\PROG8171 Software Quality\Assignments\Assignment2\TriangleSolver\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\2024Fall\PROG8171 Software Quality\Assignments\Assignment2\TriangleSolver\ConsoleApp1\bin\Debug\TriangleSolver.dll
+E:\2024Fall\PROG8171 Software Quality\Assignments\Assignment2\TriangleSolver\ConsoleApp1\bin\Debug\TriangleSolver.pdb
+E:\2024Fall\PROG8171 Software Quality\Assignments\Assignment2\TriangleSolver\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+E:\2024Fall\PROG8171 Software Quality\Assignments\Assignment2\TriangleSolver\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\2024Fall\PROG8171 Software Quality\Assignments\Assignment2\TriangleSolver\ConsoleApp1\obj\Debug\ConsoleA.CB28C8CC.Up2Date
+E:\2024Fall\PROG8171 Software Quality\Assignments\Assignment2\TriangleSolver\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\2024Fall\PROG8171 Software Quality\Assignments\Assignment2\TriangleSolver\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
